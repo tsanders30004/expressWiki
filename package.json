@@ -1,0 +1,17 @@
+{
+  "name": "wiki-express",
+  "version": "1.0.0",
+  "description": "Wiki Demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "DeeAnn Kendrick and Tim Sanders",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "fs": "0.0.2",
+    "hbs": "^4.0.0"
+  }
+}
